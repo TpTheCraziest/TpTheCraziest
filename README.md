@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TpTheCraziest
-- 👀 I’m interested in learning mobile programming and learn also all kind od programming stuff 
+- 👀 I’m interested in learning mobile programming and learn also all kind of programming stuff 
 - 🌱 I’m currently learning  Kotlin on android studio 
 - 💞️ I’m looking to collaborate on the process to build an app
 - 📫 How to reach me 
